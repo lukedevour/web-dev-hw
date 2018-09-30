@@ -1,0 +1,11 @@
+1. Information on the internet travels in bits and packets,
+traveling between computers in the most efficient route possible and reassembling
+themselves in our web browsers according to domain names and IP addresses.
+
+2. IP addresses are the specific coordinates in which a website resides on the net, and
+DNS give us actual web pages so we don't have to memorize long IP numbers.
+
+3. Cookies are small files stored on your computer that hold a small amount of data
+specific to that user and website. They carry information from one session to another.
+
+4. Protocol, domain name, and path.
