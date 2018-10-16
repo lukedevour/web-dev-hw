@@ -9,4 +9,4 @@
     literal changing of the structure, such as bolding or italicizing.</li>
     <li> This week kind of kicked my ass. I imagine there will be a ton of people with issues this week. It was very confusing trying to remember the different levels of linking and their effects on each other. I am just trying to pay the utmost attention to detail, as having a backslash in the wrong place can ruin your day very quickly with complex structures.</li>
 
-    !<img src=".assignment 3/images/assignment_3_screenshot.png"/>
+    <img src="./images/assignment_3_screenshot.png"/>
